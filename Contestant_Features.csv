@@ -1,0 +1,422 @@
+Name,Age,Final_Placement,Season,Is_AllStar,Partner_Strength_Index,Region_International,Region_Midwest,Region_Northeast,Region_Other/Unknown,Region_South,Region_West
+John O'Hurley,50,2,1,0,2.0,False,False,True,False,False,False
+Kelly Monaco,29,1,1,0,8.4,False,False,True,False,False,False
+Evander Holyfield,42,5,1,0,7.545454545454546,False,False,False,False,True,False
+Rachel Hunter,35,4,1,0,8.714285714285714,True,False,False,False,False,False
+Joey McIntyre,32,3,1,0,7.25,False,False,True,False,False,False
+Trista Sutter,32,6,1,0,7.0,False,True,False,False,False,False
+Tatum O'Neal,42,9,2,0,8.5,False,False,False,False,False,True
+Tia Carrere,39,6,2,0,6.0,False,False,False,False,False,True
+George Hamilton,66,5,2,0,7.545454545454546,False,False,False,False,True,False
+Lisa Rinna,42,4,2,0,7.0,False,False,False,False,False,True
+Stacy Keibler,26,3,2,0,7.666666666666667,False,False,True,False,False,False
+Jerry Rice,43,2,2,0,8.181818181818182,False,False,False,False,True,False
+Giselle Fernandez,44,8,2,0,8.714285714285714,True,False,False,False,False,False
+Master P,35,7,2,0,7.25,False,False,False,False,True,False
+Drew Lachey,29,1,2,0,5.8,False,True,False,False,False,False
+Kenny Mayne,46,10,2,0,10.0,False,False,False,False,False,True
+Harry Hamlin,54,9,3,0,7.25,False,False,False,False,False,True
+Vivica A. Fox,42,8,3,0,8.5,False,True,False,False,False,False
+Monique Coleman,25,4,3,0,7.0,False,False,False,False,True,False
+Joey Lawrence,30,3,3,0,7.545454545454546,False,False,True,False,False,False
+Mario Lopez,32,2,3,0,6.722222222222222,False,False,False,False,False,True
+Emmitt Smith,37,1,3,0,5.8,False,False,False,False,True,False
+Shanna Moakler,31,10,3,0,10.0,False,False,True,False,False,False
+Willa Ford,25,7,3,0,6.0,False,False,False,False,True,False
+Sara Evans,35,6,3,0,7.666666666666667,False,True,False,False,False,False
+Jerry Springer,62,5,3,0,6.285714285714286,True,False,False,False,False,False
+Tucker Carlson,37,11,3,0,9.5,False,False,False,False,False,True
+John Ratzenberger,59,6,4,0,7.545454545454546,False,False,True,False,False,False
+Ian Ziering,42,4,4,0,5.8,False,False,True,False,False,False
+Clyde Drexler,44,8,4,0,9.5,False,False,False,False,True,False
+Laila Ali,29,3,4,0,6.0,False,False,False,False,True,False
+Apolo Anton Ohno,24,1,4,0,4.2,False,False,False,False,False,True
+Shandi Finnessey,28,10,4,0,10.0,False,True,False,False,False,False
+Paulina Porizkova,41,11,4,0,8.4,True,False,False,False,False,False
+Heather Mills,39,7,4,0,8.714285714285714,True,False,False,False,False,False
+Billy Ray Cyrus,45,5,4,0,6.722222222222222,False,False,False,False,True,False
+Joey Fatone,30,2,4,0,6.285714285714286,False,False,True,False,False,False
+Leeza Gibbons,50,9,4,0,7.666666666666667,False,False,False,False,True,False
+Cameron Mathison,38,5,5,0,7.545454545454546,True,False,False,False,False,False
+Jane Seymour,56,6,5,0,7.666666666666667,True,False,False,False,False,False
+Sabrina Bryan,23,7,5,0,5.190476190476191,False,False,False,False,False,True
+Jennie Garth,35,4,5,0,2.9411764705882355,False,True,False,False,False,False
+Floyd Mayweather Jr. ,30,9,5,0,6.722222222222222,False,True,False,False,False,False
+Josie Maran,29,12,5,0,8.4,False,False,False,False,False,True
+Albert Reed,22,11,5,0,8.181818181818182,False,False,False,False,True,False
+Helio Castroneves,32,1,5,0,4.2,True,False,False,False,False,False
+Mel B,32,2,5,0,6.0,True,False,False,False,False,False
+Wayne Newton,65,10,5,0,5.8,False,False,False,False,True,False
+Marie Osmond,47,3,5,0,8.714285714285714,False,False,False,False,False,True
+Mark Cuban,49,8,5,0,6.285714285714286,False,False,True,False,False,False
+Cristian de la Fuente,34,3,6,0,5.8,True,False,False,False,False,False
+Steve Guttenberg,49,10,6,0,8.181818181818182,False,False,True,False,False,False
+Priscilla Presley,62,8,6,0,7.0,False,False,True,False,False,False
+Marlee Matlin,42,7,6,0,7.0,False,True,False,False,False,False
+Shannon Elizabeth,34,6,6,0,2.9411764705882355,False,False,False,False,True,False
+Marissa Jaret Winokur,35,4,6,0,7.666666666666667,False,False,True,False,False,False
+Jason Taylor,33,2,6,0,7.545454545454546,False,False,True,False,False,False
+Kristi Yamaguchi,36,1,6,0,5.190476190476191,False,False,False,False,False,True
+Monica Seles,34,11,6,0,8.714285714285714,True,False,False,False,False,False
+Penn Jillette,53,12,6,0,6.285714285714286,False,False,True,False,False,False
+Adam Carolla,43,9,6,0,4.2,False,False,False,False,False,True
+Mario,21,5,6,0,6.722222222222222,False,False,True,False,False,False
+Ted McGinley,50,12,7,0,12.0,False,False,False,False,False,True
+Cloris Leachman,82,7,7,0,7.5,False,True,False,False,False,False
+Susan Lucci,61,6,7,0,7.666666666666667,False,False,True,False,False,False
+Cody Linley,18,4,7,0,4.2,False,False,False,False,True,False
+Misty May-Treanor,31,10,7,0,6.0,False,False,False,False,False,True
+Maurice Greene,34,5,7,0,5.8,False,True,False,False,False,False
+Warren Sapp,35,2,7,0,6.285714285714286,False,False,False,False,True,False
+Jeffrey Ross,43,13,7,0,7.545454545454546,False,False,True,False,False,False
+Toni Braxton,40,8,7,0,8.4,False,False,True,False,False,False
+Lance Bass,29,3,7,0,6.166666666666667,False,False,False,False,True,False
+Kim Kardashian,27,11,7,0,5.190476190476191,False,False,False,False,False,True
+Rocco DiSpirito,41,9,7,0,6.722222222222222,False,False,True,False,False,False
+Brooke Burke,37,1,7,0,2.9411764705882355,False,False,True,False,False,False
+Gilles Marini,33,2,8,0,5.8,True,False,False,False,False,False
+Denise Richards,38,12,8,0,6.0,False,True,False,False,False,False
+David Alan Grier,52,9,8,0,6.285714285714286,False,True,False,False,False,False
+Lawrence Taylor,50,7,8,0,7.545454545454546,False,False,False,False,True,False
+Ty Murray,39,4,8,0,7.285714285714286,False,False,False,False,False,True
+Shawn Johnson,17,1,8,0,5.190476190476191,False,True,False,False,False,False
+Steve Wozniak,58,10,8,0,6.722222222222222,False,False,False,False,False,True
+Belinda Carlisle,50,13,8,0,8.714285714285714,False,False,False,False,False,True
+Chuck Wicks,29,6,8,0,4.2,False,False,True,False,False,False
+Lil' Kim,34,5,8,0,2.9411764705882355,False,False,True,False,False,False
+Steve-O,34,8,8,0,6.166666666666667,True,False,False,False,False,False
+Holly Madison,30,11,8,0,7.0,False,False,False,False,False,True
+Melissa Rycroft,26,3,8,0,7.666666666666667,False,False,False,False,True,False
+Ashley Hamiliton,34,16,9,0,7.545454545454546,False,False,False,False,False,True
+Debi Mazar,45,12,9,0,6.0,False,False,True,False,False,False
+Melissa Joan Hart,33,9,9,0,5.190476190476191,False,False,True,False,False,False
+Mark Dacascos,45,6,9,0,6.166666666666667,False,False,False,False,False,True
+Chuck Liddell,39,11,9,0,8.181818181818182,False,False,False,False,False,True
+Natalie Coughlin,27,10,9,0,8.4,False,False,False,False,False,True
+Louie Vito,21,8,9,0,7.285714285714286,False,True,False,False,False,False
+Michael Irvin,43,7,9,0,7.0,False,False,False,False,True,False
+Joanna Krupa,30,4,9,0,2.9411764705882355,True,False,False,False,False,False
+Kathy Ireland,46,14,9,0,7.666666666666667,False,False,False,False,False,True
+Tom DeLay,62,13,9,0,5.8,False,False,False,False,True,False
+Macy Gray,42,15,9,0,8.714285714285714,False,True,False,False,False,False
+Aaron Carter,21,5,9,0,6.722222222222222,False,False,False,False,True,False
+Mya,29,2,9,0,7.0,False,False,False,True,False,False
+Donny Osmond,51,1,9,0,6.285714285714286,False,False,False,False,False,True
+Kelly Osbourne,24,3,9,0,7.0,True,False,False,False,False,False
+Aiden Turner,32,9,10,0,7.545454545454546,True,False,False,False,False,False
+Shannen Doherty,38,11,10,0,5.190476190476191,False,False,False,False,True,False
+Niecy Nash,40,5,10,0,7.0,False,False,False,False,False,True
+Buzz Aldrin,80,10,10,0,7.25,False,False,True,False,False,False
+Chad Ochocinco,32,4,10,0,5.8,False,False,False,False,True,False
+Evan Lysacek,24,2,10,0,8.181818181818182,False,True,False,False,False,False
+Pamela Anderson,42,6,10,0,6.0,True,False,False,False,False,False
+Nicole Scherzinger,31,1,10,0,2.9411764705882355,False,False,False,False,False,True
+Erin Andrews,32,3,10,0,6.0,False,False,True,False,False,False
+Kate Gosselin,35,8,10,0,7.666666666666667,False,False,True,False,False,False
+Jake Pavelka,32,7,10,0,7.285714285714286,False,False,False,False,True,False
+David Hasselhoff,58,12,11,0,6.285714285714286,False,False,True,False,False,False
+Florence Henderson,76,8,11,0,7.5,False,True,False,False,False,False
+Kyle Massey,19,2,11,0,6.166666666666667,False,False,False,False,True,False
+Jennifer Grey,50,1,11,0,2.9411764705882355,False,False,True,False,False,False
+Rick Fox,41,6,11,0,5.8,True,False,False,False,False,False
+Kurt Warner,39,5,11,0,8.181818181818182,False,True,False,False,False,False
+Margaret Cho,41,10,11,0,7.0,False,False,False,False,False,True
+Michael Bolton,57,11,11,0,7.285714285714286,False,False,True,False,False,False
+Brandy,31,4,11,0,6.0,False,False,False,False,True,False
+The Situation,28,9,11,0,6.722222222222222,False,False,True,False,False,False
+Audrina Patridge,25,7,11,0,7.666666666666667,False,False,False,False,False,True
+Bristol Palin,19,3,11,0,5.190476190476191,False,False,False,False,False,True
+Ralph Macchio,49,4,12,0,6.722222222222222,False,False,True,False,False,False
+Chelsea Kane,22,3,12,0,5.190476190476191,False,False,False,False,False,True
+Kirstie Alley,60,2,12,0,6.0,False,True,False,False,False,False
+Hines Ward,35,1,12,0,6.285714285714286,True,False,False,False,False,False
+Sugar Ray Leonard,54,9,12,0,8.181818181818182,False,False,False,False,True,False
+Chris Jericho,40,7,12,0,5.8,False,False,True,False,False,False
+Petra Nemcova,31,8,12,0,7.0,True,False,False,False,False,False
+Mike Catherwood,32,11,12,0,6.166666666666667,False,False,False,False,False,True
+Romeo,21,5,12,0,7.285714285714286,False,False,False,False,True,False
+Wendy Williams,46,10,12,0,7.666666666666667,False,False,True,False,False,False
+Kendra Wilkinson,25,6,12,0,7.0,False,False,False,False,False,True
+Elisabetta Canalis,33,11,13,0,5.2631578947368425,True,False,False,False,False,False
+David Arquette,40,6,13,0,6.285714285714286,False,False,False,False,True,False
+Ricki Lake,42,3,13,0,2.9411764705882355,False,False,True,False,False,False
+J.R. Martinez,28,1,13,0,6.722222222222222,False,False,False,False,True,False
+Metta World Peace (Ron),31,12,13,0,7.4,False,False,True,False,False,False
+Hope Solo,30,4,13,0,6.0,False,False,False,False,False,True
+Chynna Phillips,43,9,13,0,7.666666666666667,False,False,False,False,False,True
+Kristin Cavallari,24,10,13,0,5.190476190476191,False,False,False,False,False,True
+Carson Kressley,41,8,13,0,8.181818181818182,False,False,True,False,False,False
+Chaz Bono,42,7,13,0,6.166666666666667,False,False,False,False,False,True
+Nancy Grace,51,5,13,0,9.6,False,False,False,False,True,False
+Rob Kardashian,24,2,13,0,5.8,False,False,False,False,False,True
+William Levy,31,3,14,0,5.8,True,False,False,False,False,False
+Jack Wagner,52,11,14,0,8.181818181818182,False,True,False,False,False,False
+Sherri Sheperd,44,10,14,0,5.2631578947368425,False,True,False,False,False,False
+Jaleel White,35,7,14,0,6.285714285714286,False,False,False,False,False,True
+Roshon Fegan,20,6,14,0,7.285714285714286,False,False,False,False,False,True
+Melissa Gilbert,47,5,14,0,6.0,False,False,False,False,False,True
+Martina Navratilova,55,12,14,0,7.666666666666667,True,False,False,False,False,False
+Donald Driver,37,1,14,0,7.4,False,False,False,False,True,False
+Gavin DeGraw,35,9,14,0,6.722222222222222,False,False,True,False,False,False
+Gladys Knight,67,8,14,0,9.6,False,False,False,False,True,False
+Katherine Jenkins,31,2,14,0,5.190476190476191,True,False,False,False,False,False
+Maria Menounos,33,4,14,0,2.9411764705882355,False,False,True,False,False,False
+Gilles Marini,36,6,15,1,7.4,True,False,False,False,False,False
+Sabrina Bryan,28,8,15,1,7.0,False,False,False,False,False,True
+Kirstie Alley,61,7,15,1,6.0,False,True,False,False,False,False
+Kelly Monaco,36,3,15,1,5.2631578947368425,False,False,True,False,False,False
+Apolo Anton Ohno,30,5,15,1,6.722222222222222,False,False,False,False,False,True
+Emmitt Smith,43,4,15,1,5.8,False,False,False,False,True,False
+Shawn Johnson,20,2,15,1,2.9411764705882355,False,True,False,False,False,False
+Pamela Anderson,45,13,15,1,9.6,True,False,False,False,False,False
+Helio Castroneves,37,10,15,1,7.285714285714286,True,False,False,False,False,False
+Joey Fatone,35,12,15,1,6.285714285714286,False,False,True,False,False,False
+Drew Lachey,36,11,15,1,8.181818181818182,False,True,False,False,False,False
+Bristol Palin,21,9,15,1,5.190476190476191,False,False,False,False,False,True
+Melissa Rycroft,29,1,15,1,7.666666666666667,False,False,False,False,True,False
+Ingo Rademacher,41,5,16,0,6.285714285714286,True,False,False,False,False,False
+Zendaya,16,2,16,0,5.2631578947368425,False,False,False,False,False,True
+Dorothy Hamill,56,12,16,0,9.6,False,True,False,False,False,False
+Victor Ortiz,26,8,16,0,5.4,False,True,False,False,False,False
+Alexandra Raisman,18,4,16,0,5.190476190476191,False,False,True,False,False,False
+Jacoby Jones,28,3,16,0,6.722222222222222,False,False,False,False,True,False
+D. L. Hughley,50,9,16,0,5.8,False,False,False,False,True,False
+Andy Dick,47,7,16,0,6.571428571428571,False,False,False,False,True,False
+Wynonna Judd,48,11,16,0,7.666666666666667,False,False,False,False,True,False
+Kellie Pickler,26,1,16,0,2.9411764705882355,False,False,False,False,True,False
+Lisa Vanderpump,52,10,16,0,8.461538461538462,True,False,False,False,False,False
+Sean Lowe,29,6,16,0,7.4,False,False,False,False,True,False
+Valerie Harper,74,10,17,0,9.6,False,False,True,False,False,False
+Brant Daugherty,28,7,17,0,7.4,False,True,False,False,False,False
+Elizabeth Berkley Lauren,39,6,17,0,5.2631578947368425,False,True,False,False,False,False
+Leah Remini,43,5,17,0,7.666666666666667,False,False,True,False,False,False
+Corbin Bleu,24,2,17,0,6.722222222222222,False,False,True,False,False,False
+Amber Riley,27,1,17,0,2.9411764705882355,False,False,False,False,False,True
+Keyshawn Johnson,41,12,17,0,6.571428571428571,False,False,False,False,False,True
+Bill Engvall,56,4,17,0,7.9375,False,False,False,False,True,False
+Christina Milian,31,9,17,0,5.190476190476191,False,False,True,False,False,False
+"Nicole ""Snooki"" Polizzi",25,8,17,0,6.083333333333333,True,False,False,False,False,False
+Jack Osbourne,27,3,17,0,5.8,True,False,False,False,False,False
+Bill Nye,57,11,17,0,11.0,False,False,False,True,False,False
+Billy Dee Williams,76,10,18,0,7.9375,False,False,True,False,False,False
+Danica McKellar,39,6,18,0,5.2631578947368425,False,False,False,False,False,True
+James Maslow,23,4,18,0,7.4,False,False,True,False,False,False
+Candace Cameron Bure,37,3,18,0,5.190476190476191,False,False,False,False,False,True
+Sean Avery,33,11,18,0,6.722222222222222,True,False,False,False,False,False
+Diana Nyad,64,12,18,0,12.0,False,False,True,False,False,False
+Charlie White,26,5,18,0,6.571428571428571,False,True,False,False,False,False
+Amy Purdy,34,2,18,0,2.9411764705882355,False,False,False,False,False,True
+Meryl Davis,27,1,18,0,6.0,False,True,False,False,False,False
+Drew Carey,55,8,18,0,5.8,False,True,False,False,False,False
+Cody Simpson,17,9,18,0,5.5,True,False,False,False,False,False
+NeNe Leakes,46,7,18,0,7.666666666666667,False,False,True,False,False,False
+Antonio Sabato Jr.,42,8,19,0,5.8,True,False,False,False,False,False
+Jonathan Bennett,33,9,19,0,7.25,False,True,False,False,False,False
+Lea Thompson,53,6,19,0,7.416666666666667,False,True,False,False,False,False
+Janel Parrish,25,3,19,0,5.2631578947368425,False,False,False,False,False,True
+Alfonso Ribeiro,42,1,19,0,5.5,False,False,True,False,False,False
+Lolo Jones,32,13,19,0,9.88888888888889,False,True,False,False,False,False
+Randy Couture,51,11,19,0,6.722222222222222,False,False,False,False,False,True
+Tommy Chong,76,5,19,0,7.4,True,False,False,False,False,False
+Betsey Johnson,72,10,19,0,7.666666666666667,False,False,True,False,False,False
+Michael Waltrip,51,7,19,0,7.9375,False,False,False,False,True,False
+Tavis Smiley,50,12,19,0,6.571428571428571,False,False,False,False,True,False
+Bethany Mota,18,4,19,0,2.9411764705882355,False,False,False,False,False,True
+Sadie Robertson,17,2,19,0,5.190476190476191,False,False,False,False,True,False
+Suzanne Somers,68,9,20,0,7.666666666666667,False,False,False,False,False,True
+Willow Shields,14,7,20,0,5.190476190476191,False,False,False,False,False,True
+Riker Lynch,23,2,20,0,7.25,False,False,False,False,False,True
+Rumer Willis,26,1,20,0,5.2631578947368425,False,False,False,False,True,False
+Nastia Liukin,25,4,20,0,2.9411764705882355,True,False,False,False,False,False
+Michael Sam,25,10,20,0,7.4,False,False,False,False,True,False
+Robert Herjavec,52,6,20,0,6.285714285714286,True,False,False,False,False,False
+Charlotte McKinney,21,11,20,0,9.88888888888889,False,False,False,False,True,False
+Noah Galloway,33,3,20,0,6.571428571428571,False,False,False,False,True,False
+Redfoo,39,12,20,0,7.9375,False,False,False,False,False,True
+Patti LaBelle,70,8,20,0,7.416666666666667,False,False,True,False,False,False
+Chris Soules,33,5,20,0,5.5,False,True,False,False,False,False
+Gary Busey,71,10,21,0,8.181818181818182,False,False,False,False,True,False
+Alexa PenaVega,27,6,21,0,5.190476190476191,False,False,False,False,True,False
+Carlos PenaVega,26,4,21,0,5.5,False,True,False,False,False,False
+Victor Espinoza,43,12,21,0,6.722222222222222,True,False,False,False,False,False
+Alek Skarlatos,22,3,21,0,5.4,False,False,False,False,False,True
+Chaka Khan,62,13,21,0,9.88888888888889,False,True,False,False,False,False
+Andy Grammer,31,7,21,0,7.25,False,False,False,False,False,True
+Tamar Braxton,38,5,21,0,5.2631578947368425,False,False,True,False,False,False
+Nick Carter,35,2,21,0,6.571428571428571,False,False,True,False,False,False
+Hayes Grier,15,8,21,0,7.9375,False,False,False,False,True,False
+Bindi Irwin,17,1,21,0,2.9411764705882355,True,False,False,False,False,False
+Kim Zolciak-Biermann,37,11,21,0,7.666666666666667,False,False,False,False,True,False
+Paula Deen,68,9,21,0,7.0,False,False,False,False,True,False
+Mischa Barton,30,11,22,0,7.416666666666667,True,False,False,False,False,False
+Kim Fields,46,8,22,0,6.083333333333333,False,False,True,False,False,False
+Jodie Sweetin,34,6,22,0,9.88888888888889,False,False,False,False,False,True
+Doug Flutie,53,9,22,0,6.722222222222222,False,False,True,False,False,False
+Von Miller,27,7,22,0,5.5,False,False,False,False,True,False
+Antonio Brown,27,5,22,0,6.571428571428571,False,False,False,False,True,False
+Paige VanZant,22,2,22,0,5.190476190476191,False,False,False,False,False,True
+Geraldo Rivera,72,12,22,0,7.545454545454546,False,False,True,False,False,False
+Nyle DiMarco,26,1,22,0,7.4,False,False,True,False,False,False
+Ginger Zee,35,3,22,0,5.2631578947368425,False,False,False,False,False,True
+Wanya Morris,42,4,22,0,5.4,False,False,True,False,False,False
+Marla Maples,52,10,22,0,7.666666666666667,False,False,False,False,True,False
+Jake T. Austin,21,13,23,0,6.444444444444445,False,False,True,False,False,False
+Maureen McCormick,60,8,23,0,7.416666666666667,False,False,False,False,False,True
+Marilu Henner,64,6,23,0,2.9411764705882355,False,True,False,False,False,False
+Ryan Lochte,32,7,23,0,5.8,False,False,True,False,False,False
+Calvin Johnson Jr.,30,3,23,0,5.4,False,False,False,False,True,False
+Laurie Hernandez,16,1,23,0,5.2631578947368425,False,False,True,False,False,False
+Amber Rose,32,9,23,0,6.0,False,False,True,False,False,False
+Rick Perry,66,12,23,0,7.9375,False,False,False,False,True,False
+James Hinchcliffe,29,2,23,0,6.571428571428571,True,False,False,False,False,False
+Babyface,57,11,23,0,7.25,False,True,False,False,False,False
+Vanilla Ice,48,10,23,0,5.5,False,False,False,False,True,False
+Jana Kramer,32,4,23,0,8.461538461538462,False,True,False,False,False,False
+Terra Jole,36,5,23,0,6.083333333333333,False,False,False,False,True,False
+Charo,66,11,24,0,9.88888888888889,True,False,False,False,False,False
+Mr. T,64,10,24,0,10.0,False,True,False,False,False,False
+Heather Morris,30,8,24,0,6.0,False,False,False,False,False,True
+Nancy Kerrigan,47,7,24,0,7.416666666666667,False,False,True,False,False,False
+Bonner Bolton,29,5,24,0,6.571428571428571,False,False,False,False,True,False
+Simone Biles,20,4,24,0,6.083333333333333,False,True,False,False,False,False
+David Ross,40,2,24,0,5.4,False,False,False,False,True,False
+Rashad Jennings,32,1,24,0,7.9375,False,False,False,False,True,False
+Chris Kattan,46,12,24,0,5.5,False,False,False,False,False,True
+Erika Jayne,45,9,24,0,8.461538461538462,False,False,False,False,True,False
+Normani,20,3,24,0,5.2631578947368425,False,False,False,False,True,False
+Nick Viall,36,6,24,0,7.4,False,True,False,False,False,False
+Sasha Pieterse,21,10,25,0,8.461538461538462,True,False,False,False,False,False
+Frankie Muniz,31,3,25,0,5.5,False,False,True,False,False,False
+Jordan Fisher,23,1,25,0,5.4,False,False,False,False,True,False
+Derek Fisher,43,11,25,0,6.571428571428571,False,False,False,False,True,False
+Nikki Bella,33,8,25,0,7.416666666666667,False,False,False,False,False,True
+Terrell Owens,43,6,25,0,5.8,False,False,False,False,True,False
+Victoria Arlen,22,5,25,0,5.2631578947368425,False,False,False,True,False,False
+Barbara Corcoran,68,13,25,0,9.88888888888889,False,False,True,False,False,False
+Lindsey Stirling,31,2,25,0,5.190476190476191,False,False,False,False,False,True
+Debbie Gibson,47,12,25,0,6.111111111111111,False,False,True,False,False,False
+Nick Lachey,43,9,25,0,7.4,False,False,False,False,True,False
+Drew Scott,39,4,25,0,7.9375,True,False,False,False,False,False
+Vanessa Lachey,36,7,25,0,6.0,True,False,False,False,False,False
+Jamie Anderson,27,10,26,0,7.416666666666667,False,False,False,False,False,True
+Johnny Damon,44,9,26,0,7.9375,False,True,False,False,False,False
+Kareem Abdul-Jabbar,71,8,26,0,5.4,False,False,True,False,False,False
+Arike Ogunbowale,21,7,26,0,8.461538461538462,False,True,False,False,False,False
+Jennie Finch Daigle,37,6,26,0,9.88888888888889,False,False,False,False,False,True
+Chris Mazdzer,29,5,26,0,5.5,False,False,True,False,False,False
+Mirai Nagasu,25,4,26,0,6.111111111111111,False,False,False,False,False,True
+Tonya Harding,47,3,26,0,6.083333333333333,False,False,False,False,False,True
+Josh Norman,30,2,26,0,6.571428571428571,False,False,False,False,True,False
+Adam Rippon,28,1,26,0,6.444444444444445,False,False,True,False,False,False
+Juan Pablo Di Pace,39,5,27,0,5.8,True,False,False,False,False,False
+Evanna Lynch,27,3,27,0,9.88888888888889,True,False,False,False,False,False
+Nancy McKeon,52,11,27,0,5.2631578947368425,False,False,True,False,False,False
+John Schneider,58,8,27,0,7.9375,False,False,True,False,False,False
+Milo Manheim,17,2,27,0,5.5,False,False,False,False,False,True
+Danelle Umstead,46,12,27,0,7.416666666666667,False,False,False,False,False,True
+Mary Lou Retton,50,9,27,0,6.083333333333333,False,False,False,False,True,False
+DeMarcus Ware,36,7,27,0,5.4,False,False,False,False,True,False
+Nikki Glaser,34,13,27,0,8.461538461538462,False,True,False,False,False,False
+Bobby Bones,38,1,27,0,6.571428571428571,False,False,False,False,True,False
+Tinashe,25,10,27,0,9.125,False,False,False,False,True,False
+Alexis Ren,21,4,27,0,6.111111111111111,False,False,False,False,False,True
+Joe Amabile,32,6,27,0,6.444444444444445,False,True,False,False,False,False
+Kate Flannery,55,7,28,0,10.428571428571429,False,False,True,False,False,False
+James Van Der Beek,42,5,28,0,7.9375,False,False,True,False,False,False
+Kel Mitchell,41,2,28,0,5.5,False,True,False,False,False,False
+Ray Lewis,44,11,28,0,5.8,False,False,False,False,True,False
+Lamar Odom,39,10,28,0,7.4,False,False,True,False,False,False
+Sailor Brinkley-Cook,21,9,28,0,5.2631578947368425,False,False,True,False,False,False
+Sean Spicer,48,6,28,0,5.4,False,False,True,False,False,False
+Mary Wilson,75,12,28,0,9.125,False,False,False,False,False,True
+Lauren Alaina,24,4,28,0,8.461538461538462,False,False,False,False,True,False
+Ally Brooke,26,3,28,0,6.083333333333333,False,False,False,False,True,False
+Karamo Brown,38,8,28,0,6.444444444444445,False,False,False,False,True,False
+Hannah Brown,24,1,28,0,6.111111111111111,False,False,False,False,True,False
+Anne Heche,51,13,29,0,9.88888888888889,False,True,False,False,False,False
+Jesse Metcalfe,41,12,29,0,6.571428571428571,False,False,False,False,False,True
+Chrishell Stause,39,8,29,0,8.461538461538462,False,False,False,False,True,False
+Skai Jackson,18,5,29,0,6.111111111111111,False,False,True,False,False,False
+Justina Machado,48,4,29,0,6.083333333333333,False,True,False,False,False,False
+Charles Oakley,56,15,29,0,7.9375,False,True,False,False,False,False
+Veron Davis,36,11,29,0,7.4,False,False,False,True,False,False
+Johnny Weir,36,6,29,0,10.0,False,False,True,False,False,False
+Nev Schulman,35,2,29,0,6.444444444444445,False,False,True,False,False,False
+AJ McLean,42,7,29,0,5.8,False,False,False,False,True,False
+Nelly,45,3,29,0,4.6,False,False,False,False,True,False
+Kaitlyn Bristowe,35,1,29,0,7.416666666666667,True,False,False,False,False,False
+Carole Baskin,59,14,29,0,10.428571428571429,False,False,False,False,True,False
+Monica Aldama,48,10,29,0,5.2631578947368425,False,False,False,False,True,False
+Jeannie Mai,41,9,29,0,9.125,False,False,False,False,False,True
+Martin Kove,75,15,30,0,10.0,False,False,True,False,False,False
+Brian Austin Green,48,13,30,0,6.571428571428571,False,False,False,False,False,True
+Melora Hardin,54,6,30,0,7.416666666666667,False,False,False,False,True,False
+Matt James,29,12,30,0,5.4,False,False,False,False,True,False
+"Mike ""The Miz"" Mizanin",40,9,30,0,5.5,False,True,False,False,False,False
+Suni Lee,18,5,30,0,6.083333333333333,False,True,False,False,False,False
+Iman Shumpert,31,1,30,0,4.6,False,True,False,False,False,False
+Cody Rigsby,34,3,30,0,5.8,False,False,False,False,False,True
+Melanie C,47,11,30,0,8.461538461538462,True,False,False,False,False,False
+Jimmie Allen,36,7,30,0,7.9375,False,False,True,False,False,False
+Olivia Jade,21,8,30,0,5.2631578947368425,False,False,False,False,False,True
+JoJo Siwa,18,2,30,0,6.444444444444445,False,True,False,False,False,False
+Christine Chiu,38,14,30,0,10.428571428571429,True,False,False,False,False,False
+Kenya Moore,50,10,30,0,9.125,False,True,False,False,False,False
+Amanda Kloots,39,4,30,0,6.111111111111111,False,True,False,False,False,False
+Jason Lewis,51,16,31,0,7.4,False,False,False,False,False,True
+Cheryl Ladd,71,14,31,0,7.0,False,True,False,False,False,False
+Selma Blair,50,12,31,0,6.083333333333333,False,True,False,False,False,False
+Joseph Baena,24,11,31,0,4.6,False,False,False,False,False,True
+Trevor Donovan,39,6,31,0,7.9375,False,False,False,False,False,True
+Daniel Durant,32,5,31,0,10.0,False,True,False,False,False,False
+Wayne Brady,50,3,31,0,5.5,False,False,False,False,True,False
+Sam Champion,61,13,31,0,5.8,False,False,False,False,True,False
+Jessie James Decker,34,10,31,0,6.111111111111111,True,False,False,False,False,False
+Jordin Sparks,32,9,31,0,9.125,False,False,False,False,False,True
+Heidi D'Amelio,50,8,31,0,7.416666666666667,False,False,False,False,True,False
+Charli D'Amelio,18,1,31,0,5.190476190476191,False,False,True,False,False,False
+Teresa Giudice,50,15,31,0,10.428571428571429,False,False,True,False,False,False
+Vinny Guadagnino,34,7,31,0,10.5,False,False,True,False,False,False
+Shangela,40,4,31,0,8.461538461538462,False,False,False,False,True,False
+Gabby Windey,31,2,31,0,5.2631578947368425,False,True,False,False,False,False
+Jamie Lynn Spears,32,13,32,0,6.111111111111111,False,False,False,False,True,False
+Mira Sorvino,55,10,32,0,8.461538461538462,False,False,True,False,False,False
+Barry Williams,68,7,32,0,7.4,False,False,False,False,False,True
+Alyson Hannigan,49,5,32,0,6.083333333333333,False,False,False,True,False,False
+Xochitl Gomez,17,1,32,0,5.2631578947368425,False,False,False,False,False,True
+Adrian Peterson,38,11,32,0,10.0,False,False,False,False,True,False
+Matt Walsh,58,14,32,0,10.5,False,True,False,False,False,False
+Tyson Beckford,52,12,32,0,6.444444444444445,False,False,True,False,False,False
+Jason Mraz,46,2,32,0,4.6,False,False,False,False,True,False
+Lele Pons,27,8,32,0,9.125,True,False,False,False,False,False
+Harry Jowsey,26,6,32,0,6.666666666666667,True,False,False,False,False,False
+Mauricio Umansky,53,9,32,0,7.9375,True,False,False,False,False,False
+Charity Lawson,27,4,32,0,7.416666666666667,False,False,False,False,True,False
+Ariana Madix,38,3,32,0,10.428571428571429,False,False,False,False,True,False
+Tori Spelling,51,12,33,0,10.428571428571429,False,False,False,False,False,True
+Eric Roberts,68,10,33,0,10.0,False,False,False,False,False,True
+Reginald VelJohnson,74,10,33,0,7.9375,False,False,True,False,False,False
+Chandler Kinney,24,3,33,0,9.125,False,False,False,False,False,True
+Dwight Howard ,38,6,33,0,4.6,False,False,False,False,True,False
+Danny Amendola,39,5,33,0,5.5,False,False,False,False,True,False
+Stephen Nedoroscik,26,4,33,0,6.666666666666667,False,False,False,False,True,False
+Ilona Maher,28,2,33,0,6.111111111111111,False,False,False,False,False,True
+Anna Delvey,33,12,33,0,12.0,True,False,False,False,False,False
+Brooks Nader,27,9,33,0,8.461538461538462,False,False,True,False,False,False
+Phaedra Parks,51,8,33,0,8.0,False,False,False,False,True,False
+Jenn Tran,26,7,33,0,6.083333333333333,False,False,False,False,True,False
+Joey Graziadei,29,1,33,0,6.444444444444445,False,False,False,False,True,False
+Corey Feldman,54,13,34,0,6.444444444444445,False,False,False,False,False,True
+Danielle Fishel,44,8,34,0,10.428571428571429,False,False,False,False,False,True
+Elaine Hendrix,55,5,34,0,5.0,False,False,False,False,True,False
+Baron Davis,46,13,34,0,10.0,False,False,False,False,False,True
+Jordan Chiles,24,3,34,0,3.0,False,False,False,False,True,False
+Andy Richter,59,7,34,0,7.0,False,False,False,False,False,True
+Robert Irwin,22,1,34,0,1.0,True,False,False,False,False,False
+Hilaria Baldwin,41,11,34,0,8.461538461538462,False,False,True,False,False,False
+Lauren Jauregui,29,12,34,0,9.125,False,False,False,False,True,False
+Scott Hoying,34,10,34,0,6.666666666666667,False,False,False,False,False,True
+Alix Earle,24,2,34,0,2.0,False,False,False,False,True,False
+Jen Affleck,26,9,34,0,9.0,False,False,False,False,False,True
+Whitney Leavitt,32,6,34,0,5.190476190476191,False,False,False,False,False,True
+Dylan Efron,33,4,34,0,4.0,False,False,False,False,False,True
