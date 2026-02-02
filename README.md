@@ -37,9 +37,13 @@ d:\MCM-code\
 │       ├── 01_Consistency_Metrics.png           # 模型一致性指标
 │       ├── 02_Uncertainty_by_Season.png         # 按赛季分析的不确定性
 │       ├── 03_Model_Fit_Quality.png             # 模型拟合质量评估
+<<<<<<< HEAD
 │       ├── 11_feature_importance.png            # 特征重要性
 │       └── 04_Confidence_Analysis.png           # 置信区间分析
 
+=======
+│       └── 04_Confidence_Analysis.png           # 置信区间分析
+>>>>>>> a836be3130d3e60cb0c9084a1141fe15be639faa
 │
 ├── 问题2：方法对比 (Question 2 - Comparison)
 │   ├── Question_2_Method_Comparison_Analysis.py # 详细对比分析脚本
@@ -283,7 +287,10 @@ python Question_4_Newplan.py
 - `02_Uncertainty_by_Season.png` - 按赛季的不确定性分析
 - `03_Model_Fit_Quality.png` - 模型拟合质量评估
 - `04_Confidence_Analysis.png` - 置信区间分析
+<<<<<<< HEAD
 - `11_feature_importance.png` - 特征重要性排名
+=======
+>>>>>>> a836be3130d3e60cb0c9084a1141fe15be639faa
 
 **问题2 - 方法对比：**
 - `05_Method_Comparison_Overall.png` - 整体准确率对比

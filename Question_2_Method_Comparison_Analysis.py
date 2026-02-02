@@ -19,7 +19,11 @@ class 方法对比分析:
         # 加载所有需要的数据文件
         self.周度成绩 = pd.read_csv("Weekly_Performance.csv")
         self.淘汰记录 = pd.read_csv("Elimination_Lookup.csv")
+<<<<<<< HEAD
         self.估计粉丝投票 = pd.read_csv("Estimated_Fan_Votes_Final_Model_2.csv")
+=======
+        self.估计粉丝投票 = pd.read_csv("Estimated_Fan_Votes_Final_Model_1.csv")
+>>>>>>> a836be3130d3e60cb0c9084a1141fe15be639faa
         self.选手特征 = pd.read_csv("Contestant_Features.csv")
         
         # 添加规则类型标记
